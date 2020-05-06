@@ -103,7 +103,7 @@ y_pred = model3(csv_path)
 print("Weight Predictions: ")
 print(y_pred)
 
-mse3 = mean_squared_error(y_true, y_pred)
+# mse3 = mean_squared_error(y_true, y_pred)
 
 # Still quite high??
-print(f"Mean Squared Error: {mse3}")
+# print(f"Mean Squared Error: {mse3}")
