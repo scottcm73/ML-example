@@ -10,5 +10,6 @@ pandas = "*"
 scikit-learn = "*"
 joblib = "*"
 
+
 [requires]
 python_version = "3.7"
